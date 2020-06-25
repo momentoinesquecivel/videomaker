@@ -1,0 +1,22 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "Projeto Open-Source para fazer videos automatizados - Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momentoinesquecivel/videomaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momentoinesquecivel/videomaker/issues"
+  },
+  "homepage": "https://github.com/momentoinesquecivel/videomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
